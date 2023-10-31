@@ -1,3 +1,5 @@
+![Alt text](https://raw.githubusercontent.com/pocketvince/Chatzam/main/chatzam_transparent.png?raw=true "logo")
+
 # Chatzam
 Chatzam is a decentralized command-line tool, akin to Shazam, designed to identify songs from their audio signatures. By leveraging unique audio signatures, Chatzam can accurately match and identify songs from a vast database. At this moment, the database have a collection of 21.662 songs, ranging from compilations between 1920 to 2018, as well as a lot of recent YouTube playlists. A standout feature of Chatzam is the ability for users to seamlessly integrate their personal songs into the system, expanding the recognition capabilities.
 
@@ -25,6 +27,8 @@ python3 signature.py /folder/
 ## Contributing
 
 Readme generator: https://www.makeareadme.com/
+
+Logo: https://openai.com/dall-e-2
 
 ## Extra info
 I had already explored Librosa to create MP3adcleaner
